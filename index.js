@@ -5,4 +5,4 @@ client.once('ready', () => {
     console.log(`Bot ${client.user.tag} olarak giriş yaptı!`);
 });
 
-client.login("4c42baf286832d640a361f72e09f1d781d1dcd27af26afd80b594aa70a5639fa");
+client.login("MTUzODMyMTgxOTAwNDcwNjg4OA.Gd3jfl.EEcidK_TqzTEAeYO_ZcKX6otQplV43SnQktba0");
